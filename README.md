@@ -1,15 +1,17 @@
 # C-Language-Prectical-Exam
 
 Q1 :- 
-![S1](https://github.com/user-attachments/assets/6643439d-31d7-4a3d-afa7-a91b39de5966)
+![S1](https://github.com/user-attachments/assets/b5e23233-b247-4831-91f2-2bd24966f84c)
 
 Q2 :- 
+![S2](https://github.com/user-attachments/assets/7c9b8311-651f-40c0-aa6a-55ec57c23246)
 
 Q3 :- 
-![S3](https://github.com/user-attachments/assets/d9f596d8-7022-46c2-bbd7-8937d21faf74)
+![S3](https://github.com/user-attachments/assets/802f31a2-229c-4b93-b0e1-9f3fb1295884)
 
 Q4 :- 
-![S4](https://github.com/user-attachments/assets/3b77900f-c9e2-42e4-b0b5-77377b8191b3)
+![S4](https://github.com/user-attachments/assets/a34b4c80-8eaf-46eb-997d-da11cfaae264)
 
 Q5 :- 
-![S5](https://github.com/user-attachments/assets/d56cf671-3844-4e39-97e2-5361b30916af)
+![S5](https://github.com/user-attachments/assets/c47583bb-2cc9-4186-b464-1dd971d13034)
+
